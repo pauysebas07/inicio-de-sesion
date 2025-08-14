@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #36a9d6;
+    padding: 20px;
+}
+form {
+    background: rgb(1, 255, 221);
+    padding: 15px;
+    border-radius: 8px;
+    width: 300px;
+}
+input {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 8px;
+}
+button {
+    background: #000000;
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    width: 100%;
+}
+button:hover {
+    background: #000000;
+}
+p {
+    color: red;
+    font-size: 14px;
+}
